@@ -9,6 +9,7 @@ ls
 mkdir newfileName.text
 touch newfileName.text
 
+git clone
 git status
 git add fileName
 git commit -m
