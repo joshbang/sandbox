@@ -1,1 +1,1 @@
-var journal = ["DM13 rocks!! Woot!!", "Second thing!"]
+var journal = ["DM13 rocks!! Woot!!", "Second thing!", "Third thing!"]
