@@ -15,5 +15,9 @@ git add fileName
 git commit -m
 git push
 
+git pull
+
+git checkout -b branchName
+git checkout branchName
 
 */
