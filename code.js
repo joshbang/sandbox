@@ -1,5 +1,6 @@
 var journal = ["DM13 rocks!! Woot!!", "Second thing!", "Third thing!"];
 
+var random = "New code";
 
 /*
 cd foldername
